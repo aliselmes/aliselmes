@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on finding my first developer job!
 - 🌱 I’m currently learning the MERN stack.
-- 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with job hunting and interviews.
+- :computer: I'm currently looking to collaborate on open source projects.
 - 📫 How to reach me: a.selmes@gmail.com
 - ⚡ Fun fact: I am originally from the UK and have lived and worked in the UK, France, Spain, Canada, and now the USA.
 
