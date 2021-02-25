@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**aliselmes/aliselmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on finding my first developer job!
+- 🌱 I’m currently learning the MERN stack.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with job hunting and interviews.
+- 📫 How to reach me: a.selmes@gmail.com
+- ⚡ Fun fact: I am originally from the UK and have lived and worked in the UK, France, Spain, Canada, and now the USA.
 
-Here are some ideas to get you started:
+### Repo Highlights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [The Music Exchange:](https://github.com/aliselmes/themusicexchange) A web app built in React.
+- [The Music Exchange Native App:](https://github.com/aliselmes/reactnative-themusicexchange) A native app built in React Native.
+- [The Music Exchange Back End:](https://github.com/aliselmes/musicexchangeServer) A back end for the Music Exchange app built using NodeJS, Express, and MongoDB.
+- [My Recipe Book:](https://github.com/aliselmes/myrecipebook) A web app built using .NET, C#, and MySQL.
+- [Sioux Falls Jazz and Blues Society:](https://github.com/aliselmes/sfjb) A responsive, multi-page site built using Bootstrap for a local arts non-profit.
+- [Personal Portfolio Site](https://github.com/aliselmes/2019-portfolio) A responsive, one-page site built using HTML and CSS Flexbox.
