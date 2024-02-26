@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning .NET.
-- :computer: I'm currently looking to collaborate on open source projects.
+- :computer: .NET Developer.
+- :mortar_board: Umbraco Certified Expert.
 - 📫 How to reach me: a.selmes@gmail.com
 - ⚡ Fun fact: I am originally from the UK and have lived and worked in the UK, France, Spain, Canada, and now the USA.
 
