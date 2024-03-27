@@ -2,7 +2,6 @@
 
 - :computer: .NET Developer.
 - :mortar_board: Umbraco Certified Expert.
-- 📫 How to reach me: a.selmes@gmail.com
 - ⚡ Fun fact: I am originally from the UK and have lived and worked in the UK, France, Spain, Canada, and now the USA.
 - This is my personal Github for learning and personal projects.
 
