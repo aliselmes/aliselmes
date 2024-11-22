@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - :computer: .NET Developer.
-- :mortar_board: Umbraco Certified Expert.
+- :mortar_board: Umbraco Certified Master.
 - ⚡ Fun fact: I am originally from the UK and have lived and worked in the UK, France, Spain, Canada, and now the USA.
 - This is my personal Github for learning and personal projects.
 
